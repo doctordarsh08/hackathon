@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/LENOVO/Documents/New Unity Project (2)/Assets/Parent.unity
+  isLoaded: 1
+  isActive: 1
